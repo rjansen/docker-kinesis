@@ -1,4 +1,4 @@
 # docker-kinesis
-The AWs Kinesis in docker
+The AWS Kinesis mimic in docker
 
-This project aims to create a cointainer for the [Kinasalite](https://github.com/mhart/kinesalite) tool
+A container with [Kinesalite](https://github.com/mhart/kinesalite) tool installed
